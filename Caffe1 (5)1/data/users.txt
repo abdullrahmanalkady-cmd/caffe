@@ -1,5 +1,0 @@
-STUDENT|49c0cd8b-a7dc-406d-ae18-1de070b434fb|asdw|ac0992c0|asd|0
-ADMIN|2355eccd-a6ea-463a-852a-93448650cd73|admin|c63bc483|System Administrator|true|2026-06-22T10:01:23.098575|SYSTEM
-STUDENT|459e25cc-c57b-48e4-a30c-71103583d1f8|asd|ac0992c0|asd|5
-STUDENT|2e76d7c4-002b-4eb1-a9d8-b78c90068975|bbb|17a72|body|7
-STUDENT|72d630db-435c-4758-a6ae-698c496d1cea|student|c275ce17|Student User|0
