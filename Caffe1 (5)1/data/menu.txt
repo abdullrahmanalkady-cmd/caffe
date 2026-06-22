@@ -1,0 +1,23 @@
+81831da1-95f0-4677-a6db-a8ef693a737b|Beef Burger|Juicy beef patty with cheese, pickles, onions, and fries|45.0|MAIN_COURSE
+339e37bc-2de5-42ed-87d3-9220aad1f9d0|Green Tea|Premium green tea with antioxidants|10.0|DRINK
+69fadf8f-b048-47d1-945b-ed3303145673|Pasta Alfredo|Creamy fettuccine pasta with grilled chicken and alfredo sauce|42.0|MAIN_COURSE
+7017ce0a-6dc4-4539-b779-5f228198a6fe|Spring Rolls|Vegetable spring rolls with sweet chili sauce|20.0|SNACK
+4ef14f78-db11-41a2-9a3d-624342c885d0|Tiramisu|Classic Italian dessert with coffee and mascarpone|28.0|DESSERT
+4c44be8e-0b26-41f7-9c84-eec724ecccbb|Cheesecake|New York style cheesecake with berry compote|22.0|DESSERT
+65fcc988-fbc1-4067-8bb5-8b4dec6f204f|Fresh Orange Juice|Freshly squeezed orange juice, vitamin C rich|15.0|DRINK
+780918bd-1379-4fe8-97ff-d1e7c3b79db7|Mango Smoothie|Tropical mango smoothie with yogurt and honey|22.0|DRINK
+456e1ee0-e883-4e8b-837b-1eef2f1f67b1|Chicken Wings|Spicy buffalo wings with blue cheese dip|30.0|SNACK
+b3e9c9bc-7cbc-45bd-8d32-ff14c775925e|Potato Wedges|Seasoned potato wedges with garlic aioli|16.0|SNACK
+de78bd23-b2a5-4e1d-8571-bed2eec70f87|Onion Rings|Golden crispy onion rings with ranch dressing|14.0|SNACK
+da8ddc67-955a-4101-b13a-40a099aee69b|Apple Pie|Homemade apple pie with cinnamon and vanilla ice cream|20.0|DESSERT
+176c2491-b28a-4c99-87df-49e84a9cef7a|Grilled Chicken Sandwich|Tender grilled chicken breast with lettuce, tomato, and special sauce|35.0|MAIN_COURSE
+99cec59b-ae1a-4911-ba27-77f70074450e|Iced Latte|Cold espresso with milk and ice, perfect for hot days|20.0|DRINK
+f2cb452a-dfea-445c-a66e-30102dd7b164|Lemonade|Fresh homemade lemonade with mint leaves|12.0|DRINK
+a17885b3-fc59-4e3c-a0c6-bf0bb2493919|Margherita Pizza|Classic pizza with tomato sauce, mozzarella, and fresh basil|40.0|MAIN_COURSE
+9fe38acc-f6ce-4b90-a654-a137f9dfc923|Fish & Chips|Crispy battered fish served with golden fries and tartar sauce|38.0|MAIN_COURSE
+95add220-e24e-4898-9c38-8ad4eecce028|Mozzarella Sticks|Crispy breaded mozzarella with marinara sauce|18.0|SNACK
+de70715e-df37-49c6-b748-614232777758|Cappuccino|Rich espresso with steamed milk and foam|18.0|DRINK
+4f64ef90-6ed3-4ce1-bcf6-ddcae06f19de|Chocolate Fudge Cake|Rich chocolate cake with fudge frosting and chocolate chips|25.0|DESSERT
+0e1c51f9-fd62-4e05-8674-946fc7222fe2|Caesar Salad|Fresh romaine lettuce with caesar dressing, croutons, and parmesan|28.0|MAIN_COURSE
+085cae97-7914-42e9-8e31-812417a9cbb4|Nachos Supreme|Tortilla chips with cheese, jalapeños, and sour cream|25.0|SNACK
+28beef80-97af-4f00-a477-1e6c87da16b8|Brownie Sundae|Warm chocolate brownie with vanilla ice cream and hot fudge|24.0|DESSERT
